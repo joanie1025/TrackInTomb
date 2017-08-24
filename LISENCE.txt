@@ -1,2 +1,0 @@
-LISENCE
-joanie 8.24

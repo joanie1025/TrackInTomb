@@ -1,0 +1,681 @@
+﻿“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\HelloWorld.exe”。已加载符号。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已卸载“C:\Windows\SysWOW64\kernel32.dll”
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\libcocos2d.dll”。已加载符号。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\ws2_32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\win32u.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32full.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\shell32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\windows.storage.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\combase.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\powrprof.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\shlwapi.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\SHCore.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\profapi.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\sqlite3.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\libcurl.dll”。模块已生成，不包含符号。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\Wldap32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\normaliz.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\libmpg123.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\websockets.dll”。模块已生成，不包含符号。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\opengl32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\OpenAL32.dll”。模块已生成，不包含符号。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\glew32.dll”。模块已生成，不包含符号。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmm.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\libvorbisfile.dll”。模块已生成，不包含符号。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr120.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr110.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\zlib1.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr100.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\glu32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\libcrypto-1_1.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\libssl-1_1.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\ddraw.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\dciman32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\libogg.dll”。模块已生成，不包含符号。
+“HelloWorld.exe”(Win32): 已加载“F:\cocosexercise\HelloWorld\proj.win32\Debug.win32\libvorbis.dll”。模块已生成，不包含符号。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\imm32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\uxtheme.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\dinput8.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\XInput1_4.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\devobj.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\dwmapi.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“E:\kinggsoft\kduu_ba\sp7\kwsui.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\psapi.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleaut32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp_win.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\wtsapi32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\libEGL.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\msctf.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_7c553af4468727c1\nvinit.dll”。无法查找或打开 PDB 文件。
+线程 0x1d60 已退出，返回值为 0 (0x0)。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\120322.inf_amd64_496b556827a662cb\ig9icd32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_7c553af4468727c1\nvinit.dll”
+线程 0x1f28 已退出，返回值为 0 (0x0)。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\120322.inf_amd64_496b556827a662cb\igc32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\hid.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\setupapi.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\wintrust.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\msasn1.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\crypt32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntmarta.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\vulkan-1.dll”。模块已生成，不包含符号。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\nvoglv32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已卸载“C:\Windows\SysWOW64\nvoglv32.dll”
+线程 0x145c 已退出，返回值为 0 (0x0)。
+Ready for GLSL
+Ready for OpenGL 2.0
+
+{
+	gl.version: 4.4.0 - Build 21.20.16.4542
+	gl.supports_NPOT: true
+	cocos2d.x.version: cocos2d-x-3.15.1
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.build_type: DEBUG
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.max_texture_size: 16384
+	gl.supports_OES_packed_depth_stencil: false
+	gl.vendor: Intel
+	gl.renderer: Intel(R) HD Graphics 520
+	gl.max_texture_units: 192
+	gl.supports_ETC1: false
+	gl.supports_S3TC: true
+	gl.supports_ATITC: false
+	gl.supports_PVRTC: false
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+	gl.supports_OES_map_buffer: false
+	gl.supports_OES_depth24: false
+}
+
+
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\clbcatq.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\SogouTSF.ime”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\msimg32.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\SogouPY.ime”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleacc.dll”。无法查找或打开 PDB 文件。
+“HelloWorld.exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\8.4.0.1039\Resource.dll”。模块已生成，不包含符号。
+“HelloWorld.exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\Components\PicFace\1.0.0.1675\PicFace.dll”。无法查找或打开 PDB 文件。
+线程 0x1818 已退出，返回值为 0 (0x0)。
+cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+0
+线程 0x264c 已退出，返回值为 0 (0x0)。
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+线程 0x3608 已退出，返回值为 0 (0x0)。
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+线程 0x34f8 已退出，返回值为 0 (0x0)。
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+线程 0x37a4 已退出，返回值为 0 (0x0)。
+线程 0x3070 已退出，返回值为 0 (0x0)。
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+3
+0
+0
+1
+2
+2
+线程 0x2e44 已退出，返回值为 0 (0x0)。
+线程 0x3b8 已退出，返回值为 0 (0x0)。
+线程 0x648 已退出，返回值为 0 (0x0)。

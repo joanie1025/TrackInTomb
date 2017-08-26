@@ -92,6 +92,9 @@ bool AppDelegate::applicationDidFinishLaunching() {
     }
 
     register_all_packages();
+    
+    //FileUtils::getInstance()->addSearchPath("res");
+    //FileUtils::getInstance()->addSearchPath("res/studio");
 
     // create a scene. it's an autorelease object
     Zcontrol * manager=new Zcontrol();

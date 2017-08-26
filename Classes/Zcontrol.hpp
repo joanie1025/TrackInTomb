@@ -18,6 +18,8 @@ public:
     Scene * infoScene;
     Scene * startScene;
     Scene * gameFirst;
+    Scene * gameSecond;
+    Scene * gameThird;
 
     
     void createLoadScene();
@@ -25,6 +27,8 @@ public:
     void goInfoScene();
     void goStartScene();
     void goGameFirst();
+    void goGameSecond();
+    void goGameThird();
 };
 
 

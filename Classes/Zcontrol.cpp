@@ -12,6 +12,8 @@
 #include"InfoLayer.hpp"
 #include"StartLayer.hpp"
 #include"GameFirst.hpp"
+#include"GameSecond.hpp"
+#include"GameThird.hpp"
 void Zcontrol::createLoadScene(){
     loadScene=Scene::create();
     LoadLayer*layer=LoadLayer::create();
@@ -26,7 +28,7 @@ void Zcontrol::goInfoScene(){
     InfoLayer * layer=InfoLayer::create();
     layer->tsm=this;
     infoScene->addChild(layer);
-    Director::getInstance()->replaceScene(infoScene);
+    Director::getInstance()->pushScene(infoScene);
     
     
 }
@@ -37,7 +39,7 @@ void Zcontrol::goStartScene(){
     layer->tsm=this;
     startScene->addChild(layer);
     
-    Director::getInstance()->replaceScene(startScene);
+    Director::getInstance()->pushScene(startScene);
     
     
 }
@@ -46,7 +48,26 @@ void Zcontrol::goGameFirst(){
     GameFirst * layer=GameFirst::create();
     layer->tsm=this;
     gameFirst->addChild(layer);
-    Director::getInstance()->replaceScene(gameFirst);
+    Director::getInstance()->pushScene(gameFirst);
     
     
+}
+void Zcontrol::goGameSecond(){
+    gameSecond=Scene::create();
+    GameSecond * layer=GameSecond::create();
+    layer->tsm=this;
+    gameSecond->addChild(layer);
+    Director::getInstance()->pushScene(gameSecond);
+    
+}
+void Zcontrol::goGameThird(){
+
+    gameThird=Scene::create();
+    GameThird * layer=GameThird::create();
+    layer->tsm=this;
+    gameThird->addChild(layer);
+    Director::getInstance()->pushScene(gameThird);
+
+
+
 }

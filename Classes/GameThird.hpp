@@ -14,15 +14,23 @@
 #include "Zcontrol.hpp"
 USING_NS_CC;
 
+
 #endif /* InfoLayer_hpp */
 class GameThird:public Layer{
 public:
+    Menu *menu;
     CREATE_FUNC(GameThird);
     virtual bool init();
     void menuCallBack(Ref * pSender);
-    
+    void  menuShopCallBack(Ref * pSender);
+    void  menuCaseCallBack(Ref * pSender);
+    void  menuBaCallBack(Ref * pSender);
+    void pause(Ref* pSender);
+     void updateCustom(float f);
     
 public:
     Zcontrol * tsm;
-    
+    Sprite * sprites;
+    std::vector<std::string> spritePaths;
+    int count;
 };

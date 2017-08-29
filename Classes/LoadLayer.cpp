@@ -7,8 +7,8 @@
 //
 
 #include "LoadLayer.hpp"
-
-
+#include "SimpleAudioEngine.h"
+USING_NS_CC;
 bool LoadLayer::init(){
     Vec2 origin = Director::getInstance()->getVisibleOrigin();
 
@@ -22,13 +22,17 @@ bool LoadLayer::init(){
     
  
     this->addChild(sprite, 0);
+    //auto listener=EventListenerTouchOneByOne::create();
+  
 
     
     //图片
-    scheduleOnce(CC_SCHEDULE_SELECTOR(LoadLayer::onScheduleOnce) , 3.0);
+    scheduleOnce(CC_SCHEDULE_SELECTOR(LoadLayer::onScheduleOnce) , 1.0);
     
     return true ;
 }
 void LoadLayer::onScheduleOnce(float dt){
     tsm->goInfoScene();
 }
+
+

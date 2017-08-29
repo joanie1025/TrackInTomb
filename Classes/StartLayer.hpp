@@ -20,7 +20,7 @@ public:
     CREATE_FUNC(StartLayer);
     virtual bool init();
     void menuCallBack(Ref * pSender);
-    
+    void onEnter();
     
 public:
     Zcontrol * tsm;

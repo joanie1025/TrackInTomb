@@ -22,29 +22,29 @@ USING_NS_CC;
 
 
 class GameFirst:public Layer{
-    Enemy* enemies[10];
-    Friend* myFriend;
+    
+   
 public:
     CREATE_FUNC(GameFirst);
     virtual bool init();
-    //void touchCallBack(Ref * sender，Wiget::TouchEventType controlEvent);
     
-   void menuCallBack(Ref * pSender);
-    static cocos2d::Scene* createScene();
-    
-    ~GameFirst();
-    void onExitTransitionDidStart();
-    // a selector callback
+    void menuCallBack(Ref * pSender);
+    void pause(Ref* pSender);
+    void  menuShopCallBack(Ref * pSender);
+    void updateCustom(float f);
+   
+    void onEnter();
     void onExit();
     void addEnemy(const Vec2& position);
-    // implement the "static create()" method manually
-    
-    void enemiesmove(float);
+    void enemiesmove(float dt);
     void enemiesattack(float dt);
     void friendmove(float dt);
-
+    void timer();
     
 public:
     Zcontrol * tsm;
-    
+     Menu* menu;
+    Sprite * sprites;
+    std::vector<std::string> spritePaths;
+     int count;
 };

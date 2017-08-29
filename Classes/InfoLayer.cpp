@@ -18,10 +18,7 @@ bool InfoLayer::init(){
     
     this->addChild(sprite, 0);
     
-   // Label *label=Label::createWithSystemFont("剧情介绍","", 20);
-    //label->setPosition(Vec2(winSize.width/2, winSize.height*0.9));
-    //label->setColor(Color3B(255, 0, 0));
-    //this->addChild(label);
+   
     
     MenuItemLabel *menuItem=MenuItemLabel::create(Label::createWithTTF("Continue", "fonts/Marker Felt.ttf", 24),CC_CALLBACK_1(InfoLayer::menuCallBack, this));
     menuItem->setTag(101);
@@ -41,11 +38,12 @@ void InfoLayer::menuCallBack(Ref * pSender){
     switch (((MenuItem *)pSender)->getTag()) {
         case 101:
             tsm->goStartScene();
+           
             break;
         case 102:
-            Director::getInstance()->end();
+        Director::getInstance()->end();
             exit(0);
-            break;
+                        break;
         default:
             break;
     }

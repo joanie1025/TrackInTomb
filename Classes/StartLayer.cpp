@@ -5,8 +5,13 @@
 //  Created by 蒋颖 on 2017/8/25.
 //
 //
-
+#include"Leader.h"
+#include"Friend.h"
 #include "StartLayer.hpp"
+extern Leader* leader;
+extern Friend* myFriend;
+extern int frienddeter;
+extern bool whetherfriend;
 bool StartLayer::init(){
     Vec2 origin = Director::getInstance()->getVisibleOrigin();
     
@@ -18,11 +23,6 @@ bool StartLayer::init(){
     
     this->addChild(sprite, 0);
     
-    
-    //Label *label=Label::createWithTTF("CLOCK","fonts/Marker Felt.ttf", 48);
-    //label->setPosition(Vec2(size.width/2, size.height*3/4));
-    //label->setColor(Color3B(255, 0, 0));
-    //this->addChild(label);
     
     MenuItemLabel *menuItem=MenuItemLabel::create(Label::createWithTTF("Start", "fonts/Marker Felt.ttf", 24),CC_CALLBACK_1(StartLayer::menuCallBack, this));
     menuItem->setTag(101);
@@ -44,9 +44,29 @@ void StartLayer::menuCallBack(Ref * pSender){
             tsm->goGameFirst();
             break;
         case 102:
-            tsm->goInfoScene();
+            Director::getInstance()->popScene();
             break;
         default:
             break;
     }
+}
+void StartLayer::onEnter(){
+
+    tsm->gamefirstgonext=false;
+    tsm->gamefirstgoto = false;// «∑Ò»•π˝≥°æ∞“ª
+    //gamesecondgonext = false;
+    tsm->gamesecondgoto1=false;// «∑Ò¥Úø™π˝π◊≤ƒ1
+    tsm->gamesecondgoto2 = false;// «∑Ò¥Úø™π˝π◊≤ƒ2
+    tsm->gamesecondgoto3 = false;// «∑Ò¥Úø™π˝π◊≤ƒ3
+    tsm->gamesecondgoto4 = false;// «∑Ò¥Úø™π˝π◊≤ƒ4
+    tsm->gamesecondgoto5 = false;// «∑Ò¥Úø™π˝π◊≤ƒ5
+    tsm->gamesecondgoto6 = false;// «∑Ò¥Úø™π˝π◊≤ƒ6
+    tsm->gamesecondgoto7 = false;// «∑Ò¥Úø™π˝π◊≤ƒ7
+    tsm->num = 0;
+    tsm->whetheropen = false;
+    leader=nullptr;
+    myFriend=nullptr;
+    frienddeter=0;
+    whetherfriend=false;
+    Layer::onEnter();
 }
